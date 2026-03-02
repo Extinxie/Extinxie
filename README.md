@@ -11,7 +11,7 @@ Full-Stack Developer focused on web applications
 ## 🚀 About Me
 
 - 💻 Full-Stack Developer with frontend focus  
-- ⚛️ 6+ months experience in **React** & **NestJS** development  
+- ⚛️ 1 year experience in **React** & **NestJS** development  
 - 🧠 Passionate about building scalable, clean architecture  
 - 📈 Constantly improving system design & backend skills  
 
