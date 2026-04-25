@@ -35,8 +35,8 @@ Full-Stack Developer focused on web applications
 
 <p align="">
   <img src="https://skillicons.dev/icons?i=elysia&perline=3" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853d?logo=node.js&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853d?logo=node.js&logoColor=white" /> -->
 </p>
 
 ---
