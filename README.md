@@ -10,7 +10,7 @@ Full-Stack Developer focused on web applications
 <!-- </p> -->
 
 <div align="center"><img src="https://media1.tenor.com/m/t5zHqaeKfUEAAAAd/seele-vollerei.gif" width="250px" style="border-radius: 10px;"/></div> 
-## 🚀 About Me
+About Me
 
 - 💻 Full-Stack Developer with frontend focus  
 - ⚛️ 1 year experience in **React** & **NestJS** development  
