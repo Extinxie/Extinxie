@@ -4,10 +4,12 @@
 Full-Stack Developer focused on web applications
 </h3>
 
-<p align="center">
-  <img src="https://i.pinimg.com/1200x/7c/7e/54/7c7e54babb414c3190267b36c3a73b21.jpg" width="600" />
-</p>
+<!-- <p align="center"> -->
+  <!-- <img src="https://i.pinimg.com/1200x/7c/7e/54/7c7e54babb414c3190267b36c3a73b21.jpg" width="600" />
+  -->
+<!-- </p> -->
 
+<div align="center" <img src="https://media1.tenor.com/m/t5zHqaeKfUEAAAAd/seele-vollerei.gif" width="250px" style="border-radius: 10px;"/>></div>
 ## 🚀 About Me
 
 - 💻 Full-Stack Developer with frontend focus  
