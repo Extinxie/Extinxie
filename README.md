@@ -9,7 +9,7 @@ Full-Stack Developer focused on web applications
   -->
 <!-- </p> -->
 
-<div align="center"><img src="https://i.pinimg.com/736x/53/ee/52/53ee526cce785abf838b11baf3f06b6d.jpg" width="250px" style="border-radius: 10px;"/></div> 
+<div align="center"><img src="https://i.pinimg.com/736x/e0/7a/e0/e07ae0e0e835be911a6ca85d8707df08.jpg" width="250px" style="border-radius: 10px;"/></div> 
 About Me
 
 - 💻 Full-Stack Developer with frontend focus  
