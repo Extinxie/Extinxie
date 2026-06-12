@@ -3,10 +3,7 @@
 <h3 align="center">
 Full-Stack Developer focused on web applications
 </h3>
-
- <p align="center">
-  <img src="https://i.pinimg.com/1200x/7c/7e/54/7c7e54babb414c3190267b36c3a73b21.jpg" width="600" />
-</p> 
+ 
 
 <div align="center"><img src="https://i.pinimg.com/736x/e0/7a/e0/e07ae0e0e835be911a6ca85d8707df08.jpg" width="250px" style="border-radius: 10px;"/></div> 
 About Me
