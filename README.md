@@ -15,7 +15,7 @@ Full-Stack Developer focused on web applications
 ### Backend
 
 <p align="">
-  ElysiaJs, prismaOrm
+  ElysiaJs, prismaOrm, Better-auth, stripe, NestJs,
 </p>
 
 ---
